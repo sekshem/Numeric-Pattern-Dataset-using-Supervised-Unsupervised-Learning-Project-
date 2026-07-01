@@ -1,0 +1,5 @@
+Model,Accuracy / R²,Training Time,Best Parameters
+Random Forest Regressor,Highest R²,See Engineer 1,Default / Tuned
+Random Forest Classifier,Highest Accuracy,See Engineer 2,Default / Tuned
+Gradient Boosting Classifier,Highest Accuracy,See Engineer 3,GridSearchCV
+HistGradientBoosting Classifier,0.9821,2.4055,Default
